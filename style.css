@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: rgb(67, 103, 219);
+}
+
+h1 {
+  margin-top: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input, select, button {
+  margin: 20px;
+  border: none;
+  border-radius: 5px;
+  padding: 5PX;
+}
+
+#calculate {
+  background-color: greenyellow;
+  cursor: pointer;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 5PX ;
+
+}
+#result {
+  font-size: 24px;
+  color: aquamarine;
+  font-weight: bold;
+  margin-top: 20px;
+}
